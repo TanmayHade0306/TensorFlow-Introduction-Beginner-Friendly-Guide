@@ -7,5 +7,3 @@ This repository serves as an introduction to TensorFlow, covering fundamental co
 ✅ Practical examples and notebooks
 
 Perfect for beginners and aspiring AI/ML enthusiasts! 🌟
-
-Feel free to modify it as per your needs. Let me know if you need a README file as well!
